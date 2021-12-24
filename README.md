@@ -1,4 +1,4 @@
-# blocktankiohacks
+# chatduringclasses
 close enough.
 
 # how to use
@@ -15,6 +15,8 @@ fifth, paste the code written in script.txt
 
 press ctrl+s
 
-now whenever you open blocktanks.io it will run the script, so now u can ENJOY!
+now whenever you open a google meet it will run the script, so now u can ENJOY!
  
 make sure to have tampermonkey enabled along with the script. 
+
+You can disable the script by either deleting tampermonkey or disabling the script, or disabling tampermonkey.
