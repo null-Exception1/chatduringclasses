@@ -1,5 +1,5 @@
 # chatduringclasses
-close enough.
+haha chatting go brrrrrr
 
 # how to use
 
